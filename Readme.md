@@ -64,7 +64,7 @@ The Inventory Management System is built using the following technologies:
 ## Installation
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-repo/inventory-management-system.git
+   git clone https://github.com/Muneeb1030/Inventory-Management-System.git
    ```
 2. **Setup the Database:**
    - Install MySQL Database Server.
